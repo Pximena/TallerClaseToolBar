@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TallerClaseToolBar</string>
+    <string name="str_nom">Nombre</string>
+    <string name="str_tel">Telefono</string>
+    <string name="str_co">Correo</string>
+    <string name="ok">ACEPTAR</string>
+    <string name="cacel">CANCELAR</string>
+    <string name="titulo">Etiquetas Flotantes</string>
+</resources>
